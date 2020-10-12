@@ -1,16 +1,4 @@
-# custom_painter
+## custom_painter
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2020-10-12 at 17 23 03](https://user-images.githubusercontent.com/72328725/95743885-16ba0800-0cb0-11eb-9ab8-4632b2e8be4c.jpeg)
+![WhatsApp Image 2020-10-12 at 17 23 03 (1)](https://user-images.githubusercontent.com/72328725/95743891-1883cb80-0cb0-11eb-92d3-e4e3af0f316d.jpeg)
